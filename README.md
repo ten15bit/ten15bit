@@ -1,3 +1,3 @@
-# :wave: Hi, I'm Petra Bierleutgeb
+personal projects will be located at [codeberg.org/ten15bit](https://codeberg.org/ten15bit) going forward - see you there :wave:
 
-I'm an infrastructure-focused SWE who :heart: Linux, Distributed Systems, Observability, Kubernetes, Go and Scala.
+:ukraine: :heart_hands: :palestinian_territories:
